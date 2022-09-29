@@ -1,5 +1,7 @@
 # Python Unit Test Tutorial
 
+Note: We have completed most of our assignments in Jupyter Notebooks. However, unit testing isn't something you should be doing in Jupyter Notebooks. When you go to the video tutorial, you'll notice the presenter starts with a script called calc.py. You'll need to do this assignment in VSCode (or an editor of your choice) and create the .py file(s) shown by the presenter.
+
 ## Summary of steps to complete
 
 - [ ] Fork this repository so you have your own copy to work on.
