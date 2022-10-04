@@ -23,7 +23,7 @@ Note: We have completed most of our assignments in Jupyter Notebooks. However, u
 ## Follow along with this tutorial
 
 * Complete the tutorial at: https://www.youtube.com/watch?v=6tNS--WetLI
-* In the last 5 minutes the presenter has you add some code working with schedules. You don't need to do that part. Specifically it says to add code to import requests and import schedule. Stop there. Don't do that part.
+* In the last 9 minutes the presenter has you add some code working with schedules. You don't need to do that part. Specifically it says to add code to import requests and import schedule. Stop there. Don't do that part.
   
   
 ## Push your updated file to your GitHub repository
